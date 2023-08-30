@@ -9,5 +9,5 @@
 - Body-building
 - Coding
 - Cycling
-- Bike-packing(I love my gravel bike😍)
+- Bike-packing(I love my road bike with bianchi color😍)
 - my nood codes(www)
