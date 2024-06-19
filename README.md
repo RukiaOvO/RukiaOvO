@@ -9,5 +9,3 @@
 - Body-building
 - Coding
 - Cycling
-- Bike-packing(I love my road bike with pink color😍)
-- my nood codes(www)
