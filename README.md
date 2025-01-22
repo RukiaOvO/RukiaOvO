@@ -1,11 +1,11 @@
-'''
+```Java
 @Component
 @Slf4j
 public class ReadRukiaOvO extends ReadMeHandler
 {
     private AsyncExecutor executor;
     private MusicPlayer musicPlayer;
-
+    
     @Autowired
     public ReadRukiaOvO(AsyncExecutor executor, MusicPlayer musicPlayer)
     {
@@ -33,5 +33,4 @@ public class ReadRukiaOvO extends ReadMeHandler
         session.sendReadMeMsg(JSON.toJSONString(me));
     }
 }
-
-'''
+```
